@@ -21,3 +21,4 @@ class Carro(Veiculo):
 
     def get_ano(self):
         return self._ano  # Acesso ao atributo protegido
+    
