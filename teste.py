@@ -7,6 +7,6 @@ def teste_veiculos():
     print(f"Quilometragem: {carro.get_quilometragem()} km")
     print(f"Ano do veículo: {carro.get_ano()}")
     carro.abastecer()
-
+    
 if __name__ == "_main_":
     teste_veiculos()
